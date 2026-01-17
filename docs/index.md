@@ -1,3 +1,6 @@
 ---
-redirect_to: manual.pdf
+---
+redirect_to: ../manual.pdf
+---
+
 ---
