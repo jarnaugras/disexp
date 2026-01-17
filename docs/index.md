@@ -1,2 +1,3 @@
-# Manual de Diseños Experimentales en Psicología
-Sitio en construcción.
+---
+redirect_to: manual.pdf
+---
